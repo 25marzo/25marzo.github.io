@@ -1,0 +1,69 @@
+#menuhorizontal {
+	width: 625px;
+	margin-left:220px;    /**<------  **********************************/
+    border:1px solid grey;}
+
+#menuhorizontal a {
+	padding: 0px 1.5em 0px;
+	text-decoration: none;
+	color: black;
+	background: #CEF6F5;
+}
+#menuhorizontal a:hover,
+#menuhorizontal a:active 
+{
+	background: #58FA58 ;
+}
+#menuhorizontal a:visited {color:black;}
+
+#menuvertical {
+  width: 180px;
+  border:2px solid grey; 
+  position:fixed;   /*    <------  **************************        */
+  left:50px;
+  top:100px;
+	}
+
+#menuvertical a {
+	padding: .2em 0 .2em 1.5em;
+	text-decoration: none;
+	display: block;   /**** <-------- *********** **********************/
+	color: black;
+	background: #F3F781;
+	border-bottom: 1px solid #7C7C7C;
+	border-top: 1px solid #FFFFFF;
+}
+#menuvertical a:hover,
+#menuvertical a:active 
+{
+	background: #58FA58 ;
+}
+#menuvertical a:visited {color:black;}
+
+h3 {margin-left:250px; margin-right:300px; color:blue;}
+
+
+.menu {        
+	width: 180px;
+	list-style: none;
+    margin: 0;
+	padding: 0;
+	border: 1px solid #7C7C7C;
+	position:fixed;  /*  <--------- ***************************  */
+    right:100px;
+    top:100px;
+}
+.menu li  {
+	border-bottom: 1px solid #7C7C7C;
+	border-top: 1px solid #FFFFFF;
+}
+.menu li a {
+	padding: .2em 0 .2em 1.5em;
+	display: block;    /*  <-----------  *******************************/
+	text-decoration: none;
+	color: #610B0B;
+	background: #F6CEF5 url("../imagenes/flecha_inactiva.png") no-repeat 3px;
+}
+.menu li a:hover, ul.menu li a:active {
+	background: #58FA58 url("../imagenes/flecha_activa.png") no-repeat 3px; 
+}
