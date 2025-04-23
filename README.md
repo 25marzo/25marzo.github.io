@@ -12,7 +12,7 @@
      <table align="left" border="0" cellpadding="20" width="500">
 	 <tr>
 	     <td> <img src="I1.jpg" align="left" height="250"  width="200"></td>
-	     <td  class="blanco"><img src="I2.jpg" align="left" height="250"  width="350"></td>
+	     <td  class="blanco"><img src="I4.jpg" align="left" height="250"  width="350"></td>
 		<tr> <td>
 		 
 		 <h5 class="blanco" >SOBRE MI <h5>
