@@ -3,7 +3,7 @@
 <html>
 
   <head>
-    <title>RECUPERACION</title>
+    <title>xxxxx</title>
 	<LINK rel="stylesheet" style="text/css" href="estilocss.css">
   </head>
 
